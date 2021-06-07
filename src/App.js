@@ -4,7 +4,12 @@ import Monitor from "./componets/Monitor";
 function App() {
   return (
     <div className="App">
-      <Monitor />
+      <div className="heading">
+        <h1>Health Monitor</h1>
+      </div>
+      <div className="componets">
+        <Monitor />
+      </div>
     </div>
   );
 }

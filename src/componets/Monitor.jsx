@@ -87,7 +87,7 @@ function Monitor() {
     <div>
       <div className="inputs" style={{ display: "flex" }}>
         <div className="inputGroup">
-          <InputGroup className="mb-3 unitgrp">
+          <InputGroup className="mb-3 unitgrp sm">
             <Form.Control
               className="input"
               required
@@ -97,7 +97,7 @@ function Monitor() {
               }}
               size="lg"
               type="number"
-              placeholder="Fasting blood sugar level"
+              placeholder="Fasting blood sugar"
             />
             <InputGroup.Prepend className="units">
               <InputGroup.Text className="unit" id="basic-addon1">
