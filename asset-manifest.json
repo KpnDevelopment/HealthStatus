@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HealthStatus/static/css/main.1296a69c.chunk.css",
+    "main.js": "/HealthStatus/static/js/main.4f6e164e.chunk.js",
+    "main.js.map": "/HealthStatus/static/js/main.4f6e164e.chunk.js.map",
+    "runtime-main.js": "/HealthStatus/static/js/runtime-main.4d1b69f4.js",
+    "runtime-main.js.map": "/HealthStatus/static/js/runtime-main.4d1b69f4.js.map",
+    "static/css/2.15a7a700.chunk.css": "/HealthStatus/static/css/2.15a7a700.chunk.css",
+    "static/js/2.018b834f.chunk.js": "/HealthStatus/static/js/2.018b834f.chunk.js",
+    "static/js/2.018b834f.chunk.js.map": "/HealthStatus/static/js/2.018b834f.chunk.js.map",
+    "static/js/3.9f63ae77.chunk.js": "/HealthStatus/static/js/3.9f63ae77.chunk.js",
+    "static/js/3.9f63ae77.chunk.js.map": "/HealthStatus/static/js/3.9f63ae77.chunk.js.map",
+    "index.html": "/HealthStatus/index.html",
+    "static/css/2.15a7a700.chunk.css.map": "/HealthStatus/static/css/2.15a7a700.chunk.css.map",
+    "static/css/main.1296a69c.chunk.css.map": "/HealthStatus/static/css/main.1296a69c.chunk.css.map",
+    "static/js/2.018b834f.chunk.js.LICENSE.txt": "/HealthStatus/static/js/2.018b834f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d1b69f4.js",
+    "static/css/2.15a7a700.chunk.css",
+    "static/js/2.018b834f.chunk.js",
+    "static/css/main.1296a69c.chunk.css",
+    "static/js/main.4f6e164e.chunk.js"
+  ]
+}
