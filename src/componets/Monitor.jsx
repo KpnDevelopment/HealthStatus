@@ -4,7 +4,6 @@ import { Form, Card, InputGroup } from "react-bootstrap";
 
 function Monitor() {
   const [sl, setSl] = useState("");
-  const [asl, setAsl] = useState("");
   const [sbp, setSbp] = useState("");
   const [dbp, setDbp] = useState("");
   const [sbpCond, setsBpCond] = useState("");
@@ -16,7 +15,6 @@ function Monitor() {
   const [scondition, setSCondition] = useState("");
 
   useEffect(() => {
-    // console.log(sl);
     analyseSugar();
     analyseSBp();
     analyDeSBp();
@@ -180,10 +178,6 @@ function Monitor() {
           </Card.Body>
         </Card>
       </div>
-      {/* <h4>SUGAR {scondition.toUpperCase()}</h4>
-      <h4>{sugarCondchild.toUpperCase()}</h4>
-      <h4>SYSTOLIC BP {sbpCond.toUpperCase()}</h4>
-      <h4>DIASTOLIC BP {dbpCond.toUpperCase()}</h4> */}
     </div>
   );
 }
