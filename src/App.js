@@ -1,12 +1,11 @@
 import "./App.css";
 import Monitor from "./componets/Monitor";
+import Navigationbar from "./componets/Navigationbar";
 
 function App() {
   return (
     <div className="App">
-      <div className="heading">
-        <h1>Health Monitor</h1>
-      </div>
+      <Navigationbar />
       <div className="componets">
         <Monitor />
       </div>
